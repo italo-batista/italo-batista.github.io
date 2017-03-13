@@ -1,2 +1,1 @@
-# italo-batista.github.io
-my personal website
+Visit my personal website: https://italo-batista.github.io/
